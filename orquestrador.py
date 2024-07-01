@@ -6,10 +6,10 @@ import pyautogui
 def verificar_status():
     # Dados de conexão ao banco de dados MySQL
     db_config = {
-        'host': 'bz42.hostgator.com.br',
-        'user': 'growup71_user_g2i',
-        'password': 'Gas@2023#',
-        'database': 'growup71_db_g2i',
+        'host': '',
+        'user': '',
+        'password': '',
+        'database': '',
         'port': 3306  # Porta padrão do MySQL
     }
     
