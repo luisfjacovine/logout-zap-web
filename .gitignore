@@ -1,0 +1,7 @@
+# Ignorar a pasta Bkp e build
+Bkp/
+build/
+
+# Ignorar arquivos Python compilados
+*.pyc
+__pycache__/
