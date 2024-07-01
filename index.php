@@ -1,9 +1,9 @@
 <?php
 // Conexão com o banco de dados
-$servername = "bz42.hostgator.com.br";
-$username = "growup71_user_g2i";
-$password = "Gas@2023#";
-$dbname = "growup71_db_g2i";
+$servername = "";
+$username = "";
+$password = "";
+$dbname = "";
 
 $conn = new mysqli($servername, $username, $password, $dbname);
 

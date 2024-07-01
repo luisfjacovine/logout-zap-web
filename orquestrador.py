@@ -82,4 +82,4 @@ if __name__ == "__main__":
     while True:
         verificar_status()
         # Aguardar 5 minutos antes de verificar novamente
-        time.sleep(30)  # 300 segundos = 5 minutos
+        time.sleep(30)  # 30 segundos
