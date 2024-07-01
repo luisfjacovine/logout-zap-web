@@ -22,6 +22,8 @@ Este projeto tem como objetivo garantir a segurança das suas conversas no Whats
 
 - `logout.py`: Script responsável por realizar o logout do WhatsApp Web.
 - `orquestrador.py`: Script que verifica o status no banco de dados e orquestra a execução do `logout.py`.
+- `index.php`: Página contendo o script que conecta ao banco de dados para atualizar o status utilizando a rotina de automação.
+- `query.sql`: Arquivo de configuração da tabela VERIFICADOR no banco de dados.
 
 ## Requisitos
 
